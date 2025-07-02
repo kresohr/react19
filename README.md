@@ -1,3 +1,7 @@
+# React 19 Crash Course
+
+This project is a simple crash course for React 19 based on JavaScript Mastery [Video on youtube](https://www.youtube.com/watch?v=dCLhUialKPQ&t=7272s&ab_channel=JavaScriptMastery).
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
