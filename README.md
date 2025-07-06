@@ -1,6 +1,7 @@
 # React 19 Crash Course
 
 This project is a simple crash course for React 19 based on JavaScript Mastery [Video on youtube](https://www.youtube.com/watch?v=dCLhUialKPQ&t=7272s&ab_channel=JavaScriptMastery).
+The reason why I decided to follow this crash course is to remind myself of the "React ways" as I'm mostly working with VueJS lately.
 
 # React + Vite
 
